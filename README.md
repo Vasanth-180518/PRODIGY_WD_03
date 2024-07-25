@@ -13,3 +13,5 @@ Language used: html,css and javascript.
 ```index.html```:The main HTML file for the tic-tac-toe web application.</br>
 ```style.css```:Directory containing CSS stylesheets.</br>
 ```script.js```:Directory containing JavaScript files.
+
+https://github.com/user-attachments/assets/ce3e15f8-d3c8-421e-83a9-54f105051b76
